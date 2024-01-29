@@ -1,0 +1,36 @@
+.sidebar {
+    position: left;
+    background-color: #ffffff;
+    width: 180px;
+}
+
+.sidebar-icon{
+width: 8%;
+height: 8%;
+}
+
+.sidebar-top{
+    margin-top: 20%;
+}
+.sidebar-body{
+    margin-left: 30px;
+    margin-top: 30%;
+    word-spacing: 15px;
+}
+.sidebar-bottom{
+    margin-left: 30px;
+    margin-top: 70%;
+    word-spacing: 15px;
+}
+.sidebar-word1{
+    line-height: 5px;
+    color: #023A51;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.driver-sidebar-bottom{
+    margin-left: 30px;
+    margin-top: 190%;
+    word-spacing: 15px;
+}

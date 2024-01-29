@@ -1,0 +1,278 @@
+.driver-welcome-word1 {
+  text-align: center;
+  color: #023a51;
+  font-size: 29px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+.driver-responsive {
+  width: 100%;
+  height: auto;
+}
+
+.driver-welcome-word2 {
+  line-height: 5px;
+  color: #023a51;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.driver-welcome-word3 {
+  line-height: 5px;
+  color: #023a51;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.driver-welcome-button1 {
+  background: #00b9ed;
+  border-radius: 10px;
+  line-height: 40px;
+  width: 80%;
+  color: white;
+  /* border-color: white; */
+  border-style: none;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.driver-welcome-button2 {
+  background: #ffffff;
+  border-radius: 10px;
+  line-height: 40px;
+  width: 80%;
+  font-weight: bold;
+  color: #023a51;
+  border-color: white;
+  border-style: outset;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.driver-welcome-button2 {
+  background: #ffffff;
+  border-radius: 10px;
+  line-height: 40px;
+  width: 80%;
+  font-weight: bold;
+  color: #023a51;
+  border-color: white;
+  border-style: outset;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.marginTop-login-form {
+  position: absolute;
+  width: 100%;
+  min-height: 80vh;
+  background: #e1ecef;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 40px 40px 40px 40px;
+}
+
+.label-margin-login {
+  margin-top: 1.5rem;
+  text-align: left;
+  width: 80%;
+  color: #023a51;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.forgot-password {
+  display: flex;
+  justify-content: flex-end;
+  width: 80%;
+  margin-bottom: 4rem;
+  color: #023a51;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.driver-unlock-modal {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  right: 10%;
+  background-color: white;
+  transform: 'translate(-50%, -50%)';
+  border-radius: 20px;
+  border: #00B9ED 1px solid;
+  margin-top: 1%;
+  padding-bottom: 1%;
+}
+
+.legend {
+  color: #023a51;
+  z-index: 9;
+  font-size: 24px;
+  opacity: 1 !important;
+  display: block;
+}
+
+.error-msg {
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: red;
+  font-size: 12px;
+  margin-top: 20px;
+}
+
+.full-bg {
+  background-color: rgba(225, 236, 239, 1);
+  min-height: 100vh;
+  height: 100%;
+  padding: 1%;
+}
+
+.driver-appbar {
+  margin-top: 10px;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+}
+
+.driver-order-border {
+  border: rgba(0, 0, 0, 0.2) 1px solid;
+  background-color: white;
+  width: 95%;
+  margin: 1px 10px;
+  padding-bottom: 2%;
+}
+
+.driver-order-details {
+  color: #023a51;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+}
+
+.driver-order-right {
+  color: #023a51;
+  position: absolute;
+  margin-left: 48%;
+  margin-top: -12%;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+}
+
+.driver-order-left {
+  margin-top: 2%;
+  color: #023a51;
+  margin-left: 1%;
+  line-height: 15px;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+}
+
+.driver-order-location {
+  color: #023a51;
+  margin-left: 1%;
+  margin-top: 2%;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+}
+
+.driver-iconStatus {
+  color: rgba(255, 184, 0, 1);
+  /* position: absolute; */
+  margin-top: -3%;
+}
+
+.driver-completed-iconStatus {
+  color: green;
+  /* position: absolute; */
+  margin-top: -2%;
+}
+
+.driver-order-status {
+  color: #023a51;
+  position: absolute;
+  margin-left: 8%;
+  margin-top: -6%;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+}
+
+.driver-task-word1 {
+  color: #023a51;
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 25%;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+.driver-record-word1 {
+  color: #023a51;
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 38%;
+  margin-top: 3%;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+.driver-task-word2 {
+  color: #023a51;
+  font-size: 25px;
+  margin-top: 55%;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  letter-spacing: 0.04em;
+  text-align: center;
+}
+
+
+.driver-order-button {
+  background: #00b9ed;
+  border-radius: 10px;
+  line-height: 40px;
+  font-size: 16px;
+  width: 90%;
+  color: white;
+  /* border-color: white; */
+  border-style: none;
+}
+
+.driver-order-accept {
+  background: #00b9ed;
+  border-radius: 10px;
+  line-height: 40px;
+  font-size: 16px;
+  width: 90%;
+  color: white;
+  /* border-color: white; */
+  border-style: none;
+}
+
+.driver-order-placed {
+  background-color: rgba(225, 236, 239, 1);
+  height: 100vh;
+}
+
+.driver-arrowback {
+  position: absolute;
+  margin-top: 4%;
+  margin-left: 15px;
+}
+
+.driver-arrowimg {
+  height: 40px;
+  border: white;
+}
+
+.unlock-modal-word1 {
+  line-height: 5px;
+  color: #023a51;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}

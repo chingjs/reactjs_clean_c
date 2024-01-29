@@ -1,0 +1,83 @@
+.inbox-arrowback {
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.inbox-modal-arrowback {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 15px;
+}
+
+.arrowbutton {
+    height: 40px;
+    border: white;
+}
+
+.inbox-unread {
+    color: #AFAFAF;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+}
+
+.inbox-full-bg {
+    background-color: #E1ECEF;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.inbox-details-header {
+    margin-top: 1px;
+    color: #023A51;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    width: 100%;
+    font-weight: bold;
+}
+
+.inbox-iconRead {
+    color: #0D9DDB;
+    margin-left: 15%;
+}
+
+.inbox-details-datetime {
+    color: #AFAFAF;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    position: absolute;
+    font-size: 12px;
+    margin-left: 81%;
+}
+
+.inboxdetails-header {
+    padding: 6%;
+    margin-left: 3%;
+    color: #023A51;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    width: 85%;
+    font-weight: bold;
+}
+
+
+.inboxdetails {
+    padding: 5%;
+    text-align: justify;
+    color: #023A51;
+    margin-left: 3%;
+
+}
+
+.inboxdetails-support {
+    background: #00B9ED;
+    border-radius: 10px;
+    line-height: 50px;
+    width: 80%;
+    font-size: 20px;
+    color: white;
+    /* border-color: white; */
+    border-style: none;
+    margin-top: 60%;
+    margin-bottom: 1rem;
+}

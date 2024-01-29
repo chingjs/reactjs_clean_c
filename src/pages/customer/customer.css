@@ -1,0 +1,98 @@
+.profile-bg {
+  background-color: rgba(225, 236, 239, 1);
+  padding-top: 1%;
+}
+
+.profile-arrowback {
+  position: absolute;
+  /* margin-top: 2%; */
+  margin-left: 20px;
+}
+
+.arrowbutton {
+height: 40px;
+border: white;
+}
+
+
+.profile-header {
+  color: #023a51;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 1%;
+}
+
+.profile-body-bg {
+  background-color: white;
+  padding-top: 1%;
+  padding-bottom: 5%;
+}
+.profile-button {
+  background: #00b9ed;
+  border-radius: 10px;
+  line-height: 40px;
+  width: 85%;
+  color: white;
+  border-color: white;
+  border-style: none;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.profile-container {
+  display: flex;
+}
+
+.profile-flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+}
+
+.profile-flex-details {
+  color: #023a51;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  margin-left: 3%;
+  padding-top: 1%;
+  width: 15%;
+}
+
+.profile-data-flex {
+  color: rgba(2, 58, 81, 0.8);
+  width: 90%;
+  padding: 5%;
+  text-align: right;
+}
+
+.profile-arrow {
+  margin-right: 4%;
+}
+
+.profile-logo {
+  height: 8vh;
+}
+
+.modal-message {
+  color: #afafaf;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-style: normal;
+}
+.profile-check {
+  margin-right: 6%;
+}
+.profile-pass-error {
+  color: red;
+  text-align: center;
+}
+.upload-button-my-profile {
+  color: white;
+  background-color: #00b9ed;
+  width: 250px;
+  height: 25px;
+  border: none;
+  border-radius: 10px;
+}

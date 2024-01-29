@@ -1,0 +1,117 @@
+.appbar {
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+
+.notification-top-right {
+    float: right;
+    color: green;
+    position: absolute;
+    right: 1px;
+    top: 10px;
+}
+
+.home-word1 {
+    color: #023A51;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 0.04em;
+    text-align: center;
+}
+
+.home-word2 {
+    color: #023A51;
+    margin-top: 2%;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 0.04em;
+    text-align: center;
+    line-height: 50px;
+}
+
+.home-word3 {
+    color: #023A51;
+    font-size: 25px;
+    line-height: 20px;
+    margin-top: 5px;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+
+
+.home-icon {
+    width: 30%;
+    height: auto;
+    margin-top: 15%;
+    border-radius: 20px;
+}
+
+.home-button {
+    width: 35%;
+    background-color: #E1ECEF;
+    line-height: 50px;
+    border-radius: 20px;
+    border-color: white;
+    border-style: none;
+
+}
+
+.button-container {
+    display: flex;
+    /* margin-left: 10%; */
+    justify-content: center;
+    gap: 5%;
+}
+
+.home-body-btm-main {
+    background-color: rgba(225, 236, 239, 1);
+    /* background-size: 100%; */
+    /* padding-top: 1rem; */
+    /* padding-bottom: 3rem; */
+    height: 100vh;
+}
+
+.category {
+    border-radius: 20px;
+    overflow: hidden;
+    width: 90%;
+    position: relative;
+    margin: 25px 0;
+    padding: 0;
+}
+
+.washingandirontext {
+    padding: 3%;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    color: black;
+    /* display: flex; */
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.home2-img {
+    width: 100%;
+    height: 100%;
+}
+
+.home2-arrowback {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 10px;
+}
+
+.fb-icon {
+    position: fixed;
+    height: auto;
+    width: 70px;
+    bottom: 50px;
+    margin-left: 5%;
+    /* margin-right: -40%; */
+}

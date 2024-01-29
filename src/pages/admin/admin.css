@@ -1,0 +1,314 @@
+.admin-login-bg {
+  padding: 1%;
+  margin-top: 7%;
+  margin-left: 25%;
+  height: 60%;
+  background-color: white;
+  width: 50%;
+}
+
+.admin-login-full {
+  background-color: rgba(13, 157, 219, 1);
+  position: absolute;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.admin-create-operator-label {
+  font-size: 22px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.admin-create-border {
+  border: 1px solid #023a51;
+  width: 65%;
+  margin-left: 17%;
+  border-radius: 22px;
+}
+
+.admin-margin-create {
+  text-align: left;
+  width: 100%;
+  color: #023a51;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.admin-create-flex {
+  margin-left: 5%;
+  padding-bottom: 5%;
+}
+
+.admin-operator-button1 {
+  background: #00b9ed;
+  border-radius: 10px;
+  line-height: 40px;
+  width: 56%;
+  color: white;
+  border-color: white;
+  border-style: none;
+}
+
+.admin-create-input {
+  background: #00b9ed;
+  margin-top: 4%;
+  border-radius: 10px;
+  line-height: 40px;
+  font-size: 20px;
+  width: 100%;
+  color: white;
+  border-color: white;
+  border-style: none;
+}
+
+.admin-input-box {
+  border-radius: 0.5rem;
+  width: 70%;
+  height: 4vh;
+  font-size: 20px;
+}
+
+
+.admin-login-word1 {
+  color: #023a51;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+}
+
+.admin-error {
+  padding: 3%;
+  font-size: 22px;
+  color: red;
+  text-align: center;
+}
+
+.admin-success-msg {
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: green;
+  font-size: 22px;
+  margin-top: 20px;
+}
+
+.admin-order-modal-bg {
+  text-align: left;
+  width: 75%;
+  border-radius: 10px;
+  margin-left: 12%;
+  background-color: white;
+  margin-top: 2%;
+  font-size: 10px;
+  padding: 1%;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.admin-reschedule-modal-bg {
+  /* width: 100%; */
+  margin-left: 35%;
+  font-size: 10px;
+  max-height: 100vh;
+  overflow-y: auto;
+}
+
+.reschedule-close {
+  margin-left: 97%;
+  line-height: 10px;
+  font-size: 18px;
+}
+
+.admin-home-word1 {
+  color: #023a51;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+}
+
+.order-table1 {
+  text-align: center;
+  font-size: 22px;
+}
+
+.admin-enquiry-modal-bg {
+  text-align: left;
+  width: 70%;
+  border-radius: 20px;
+  margin-left: 20%;
+  background-color: white;
+  margin-top: 10%;
+  font-size: 10px;
+  padding: 1%;
+  height: 55%;
+}
+
+.admin-service-mid {
+  text-align: center;
+}
+
+.admin-service-modal-bg {
+  text-align: left;
+  width: 50%;
+  border-radius: 20px;
+  margin-left: 25%;
+  background-color: white;
+  margin-top: 7%;
+  font-size: 10px;
+  padding: 2%;
+  height: 63%;
+}
+
+.admin-operator-modal-bg {
+  text-align: left;
+  width: 35%;
+  border-radius: 20px;
+  margin-left: 32%;
+  background-color: white;
+  margin-top: 5%;
+  font-size: 10px;
+  padding: 2%;
+  height: 80%;
+
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+}
+
+.overview-container {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.locker-table {
+  border: 1px solid #023a51;
+  width: 100%;
+}
+
+.locker-td {
+  text-align: center;
+  font-size: 25px;
+}
+
+.overview-table {
+  border: 1px solid #023a51;
+  width: 80%;
+  margin-left: 10%;
+
+}
+
+.overview-appBar {
+  position: fixed;
+}
+
+.upload-button-item-type {
+  color: white;
+  background-color: #00b9ed;
+  width: 40%;
+  height: 25px;
+  border: none;
+  border-radius: 10px;
+}
+
+.clear-button-item-type {
+  margin-top: 2%;
+  color: white;
+  background-color: red;
+  width: 40%;
+  height: 25px;
+  border: none;
+  border-radius: 10px;
+}
+
+.upload-button-edit-item-type {
+  color: white;
+  background-color: #00b9ed;
+  width: 40%;
+  font-size: 20px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+}
+
+.clear-button-edit-item-type {
+  color: white;
+  background-color: red;
+  width: 40%;
+  margin-top: 2%;
+  font-size: 20px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+}
+
+.table.table thead th {
+  font-weight: bold;
+}
+
+.exportButton {
+  padding: 1px;
+  font-weight: bold;
+  border: 2px solid black;
+  color: black;
+  margin-left: 180px;
+  margin-top: 8px;
+  position: absolute;
+  z-index: 1;
+
+}
+
+.admin-calendar-div {
+  width: 100%;
+  font-size: 15px;
+  color: #023a51;
+}
+
+.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+
+  font-size: 90% !important;
+}
+
+
+
+.data-details {
+  margin: 20px;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.data-table th,
+.data-table td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+
+.data-table th {
+  background-color: #f2f2f2;
+}
+
+.data-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.data-table tbody tr:hover {
+  background-color: #eaeaea;
+}
+
+.cancelled-row {
+  /* background-color: red; */
+  color: red;
+}
+

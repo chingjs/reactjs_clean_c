@@ -1,0 +1,306 @@
+.welcome-word1 {
+  text-align: center;
+  margin-top: 5%;
+  color: #023a51;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+.register-word1 {
+  text-align: center;
+  margin-top: 4%;
+  color: #023a51;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+.responsive {
+  width: 60%;
+  height: auto;
+}
+
+.welcome-word2 {
+  line-height: 5px;
+  color: #023a51;
+  font-size: 13px;
+  /* font-weight: bold; */
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.welcome-button1 {
+  background: #00b9ed;
+  border-radius: 10px;
+  line-height: 40px;
+  width: 80%;
+  color: white;
+  border-style: none;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.reg-button1 {
+  margin-top: 2%;
+  background: #00b9ed;
+  border-radius: 10px;
+  line-height: 40px;
+  width: 80%;
+  color: white;
+  border-color: white;
+  border-style: none;
+}
+
+.welcome-button2 {
+  background: #ffffff;
+  border-radius: 10px;
+  line-height: 40px;
+  width: 80%;
+  /* font-weight: bold; */
+  color: #023a51;
+  /* border-color: white; */
+  /* margin-top: 1rem;
+  margin-bottom: 2rem; */
+}
+
+.welcome-button-right {
+  position: absolute;
+  margin-top: -15%;
+  margin-left: 32%;
+}
+
+.marginTop-login-form {
+  position: fixed;
+  width: 100%;
+  min-height: 100vh;
+  background: #e1ecef;
+}
+
+.label-margin-login {
+  text-align: left;
+  width: 100%;
+  color: #023a51;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.phone-special {
+  margin-top: 0.5rem;
+  border-radius: 0.5rem;
+  width: 55%;
+  border: none;
+  min-height: 4vh;
+  font-size: 20px;
+  padding: 1%
+}
+
+.phone-input {
+  margin-top: 0.5rem;
+  border-radius: 0.5rem;
+  width: 80%;
+  border: none;
+  min-height: 4vh;
+  font-size: 20px;
+  padding: 1%;
+}
+
+.phone-input-password {
+  margin-top: 0.8rem;
+  border-radius: 0.5rem;
+  width: 10%;
+  border: none;
+  height: 37px;
+  position: absolute;
+  margin-left: -10%;
+}
+
+.phone-country {
+  margin-top: 0.5rem;
+  border-radius: 0.5rem;
+  width: 20%;
+  border: none;
+  height: 38px;
+  font-size: 20px;
+}
+
+
+.forgot-password {
+  display: flex;
+  justify-content: flex-end;
+  width: 80%;
+  margin-bottom: 4rem;
+  color: #023a51;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.signin-arrowback {
+  position: absolute;
+  margin-top: 2%;
+  margin-left: 15px;
+}
+
+.register-arrowback {
+  position: absolute;
+  margin-top: 2%;
+  margin-left: 15px;
+}
+
+.resend-arrowback {
+  position: absolute;
+  margin-top: -22%;
+  margin-left: 25px;
+}
+
+.signup-bottom {
+  color: #023a51;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.didnt-not-received-code {
+  color: rgb(2, 58, 81, 50%);
+  margin-bottom: 1rem;
+  font-size: 12px;
+  line-height: 1px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.resend-code {
+  color: rgb(2, 58, 81);
+  margin-bottom: 1rem;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.otp-word {
+  margin-top: 30%;
+  color: #023a51;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  letter-spacing: 0.04em;
+  text-align: center;
+}
+
+.unlock-locker-code-box {
+  width: 3rem;
+  border-radius: 10%;
+  height: 4rem;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.legend {
+  color: #023a51;
+  z-index: 9;
+  font-size: 24px;
+  opacity: 1 !important;
+  display: block;
+}
+
+.index-number {
+  display: flex;
+  justify-content: space-around;
+  height: fit-content;
+}
+
+.index-number-inside {
+  justify-content: space-evenly;
+}
+
+.pic-size {
+  background-color: white;
+  text-align: center;
+  max-height: 90%;
+  width: 100%;
+}
+
+.text {
+  color: black;
+
+}
+
+.index {
+  margin-top: 4vh;
+  font-size: larger;
+  margin-left: 1rem;
+}
+
+.welcome-carousel {
+  /* margin-top: 2%; */
+  width: 100%;
+  min-height: 100%;
+  /* position:fixed; */
+}
+
+.news-word1 {
+  margin-top: 10%;
+  color: #023a51;
+  font-size: 22px;
+  justify-content: center;
+  font-weight: bold;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.error-msg {
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: red;
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+.register-tnc {
+  margin-top: 3%;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  width: 85%;
+  line-height: 25px;
+  color: #023a51;
+}
+
+.tnc-content {
+  margin-top: 3%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.tnc-box {
+  display: flex;
+  align-items: center;
+}
+
+.react-tel-input .form-control {
+  position: relative;
+  font-size: 20px !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  border: 0 !important;
+  border-radius: 0.5rem !important;
+  width: 80% !important;
+  margin-left: 10px;
+  padding-left: 46px !important;
+}
+
+.react-tel-input {
+  font-family: 'Roboto',sans-serif;
+  font-size: 15px;
+  position: relative;
+  margin-left: 10%;
+}
+
+.react-tel-input .country-list .country {
+  padding: 7px 9px;
+  text-align: left;
+}
